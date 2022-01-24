@@ -1,0 +1,15 @@
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\bin\Debug\net6.0\CSharpBasicsProject.exe
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\bin\Debug\net6.0\CSharpBasicsProject.deps.json
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\bin\Debug\net6.0\CSharpBasicsProject.runtimeconfig.json
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\bin\Debug\net6.0\CSharpBasicsProject.dll
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\bin\Debug\net6.0\ref\CSharpBasicsProject.dll
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\bin\Debug\net6.0\CSharpBasicsProject.pdb
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.csproj.AssemblyReference.cache
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.AssemblyInfoInputs.cache
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.AssemblyInfo.cs
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.csproj.CoreCompileInputs.cache
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.dll
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\ref\CSharpBasicsProject.dll
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.pdb
+C:\Demos\SkillSoftSolution\CSharpBasicsProject\obj\Debug\net6.0\CSharpBasicsProject.genruntimeconfig.cache

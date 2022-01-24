@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "uryA6v5CS37DUQ1U0PwCF4aREOJeQaUh8RNMHF9pNzM=",
+  "Source": "HelloWorldDemoApp",
+  "BasePath": "_content/HelloWorldDemoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HelloWorldDemoApp\\wwwroot",
+      "Source": "HelloWorldDemoApp",
+      "ContentRoot": "C:\\Demos\\SkillSoftSolution\\HelloWorldDemoApp\\wwwroot\\",
+      "BasePath": "_content/HelloWorldDemoApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Demos\\SkillSoftSolution\\HelloWorldDemoApp\\wwwroot\\welcome.html",
+      "SourceId": "HelloWorldDemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Demos\\SkillSoftSolution\\HelloWorldDemoApp\\wwwroot\\",
+      "BasePath": "_content/HelloWorldDemoApp",
+      "RelativePath": "welcome.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\welcome.html"
+    }
+  ]
+}
